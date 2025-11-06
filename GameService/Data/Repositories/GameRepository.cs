@@ -7,9 +7,11 @@ namespace GameService.Data.Repositories
     public class GameRepository : IGameRepository
     {
         private readonly ApplicationDbContext Context;
-        public GameRepository(ApplicationDbContext context)
+        private readonly ILogger<GameRepository> Logger;
+        public GameRepository(ApplicationDbContext context, ILogger<GameRepository> logger)
         {
             Context = context;
+            Logger = logger;
         }
 
         public async Task<List<Game>> Get()
@@ -20,7 +22,7 @@ namespace GameService.Data.Repositories
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                Logger.LogError(ex, "An error occurred while retrieving games.");
                 throw;
             }
         }
@@ -33,7 +35,7 @@ namespace GameService.Data.Repositories
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                Logger.LogError(ex, $"An error occurred while retrieving the game with ID {id}.");
                 throw;
             }
         }
@@ -54,7 +56,7 @@ namespace GameService.Data.Repositories
             }
             catch (Exception ex) 
             {
-                Console.WriteLine(ex);
+                Logger.LogError(ex, "An error occurred while adding a new game.");
                 throw;
             }
         }
@@ -76,7 +78,7 @@ namespace GameService.Data.Repositories
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                Logger.LogError(ex, $"An error occurred while deleting the game with ID {id}.");
                 throw;
             }
         }
@@ -102,7 +104,7 @@ namespace GameService.Data.Repositories
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                Logger.LogError(ex, $"An error occurred while updating the game with ID {id}.");
                 throw;
             }
         }

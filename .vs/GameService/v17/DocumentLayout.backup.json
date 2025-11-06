@@ -1,64 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1171083\\source\\repos\\GameService\\",
+  "WorkspaceRootPath": "C:\\Users\\Esteban\\source\\repos\\GameService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\gameservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\gameservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\gameservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\gameservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Esteban\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\gameservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\gameservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\gameservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\gameservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1171083\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\data\\models\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\data\\models\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\data\\models\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\data\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\data\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\data\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\data\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\data\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\data\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\migrations\\20251104135834_inital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\migrations\\20251104135834_inital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\migrations\\20251104135834_inital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\1171083\\source\\repos\\gameservice\\gameservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|c:\\users\\esteban\\source\\repos\\gameservice\\gameservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058128A6-E7C7-4554-841A-004C3A4AC7BC}|GameService\\GameService.csproj|solutionrelative:gameservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -69,57 +76,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameService",
-              "DocumentMoniker": "C:\\Users\\1171083\\Source\\Repos\\GameService\\GameService\\GameService.csproj",
-              "RelativeDocumentMoniker": "GameService\\GameService.csproj",
-              "ToolTip": "C:\\Users\\1171083\\Source\\Repos\\GameService\\GameService\\GameService.csproj",
-              "RelativeToolTip": "GameService\\GameService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T18:38:26.397Z",
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "GameService\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "GameService\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:49:36.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GameService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GameService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Esteban\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
+              "ToolTip": "C:\\Users\\Esteban\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T18:35:54.628Z",
+              "WhenOpened": "2025-11-05T22:46:07.7Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameService.csproj",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\GameService.csproj",
+              "RelativeDocumentMoniker": "GameService\\GameService.csproj",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\GameService.csproj",
+              "RelativeToolTip": "GameService\\GameService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:38:26.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T18:35:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\1171083\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\1171083\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
               "ToolTip": "C:\\Users\\1171083\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\1171083\\AppData\\Roaming\\Microsoft\\UserSecrets\\1c56f4ef-87e3-43fc-a6b9-3ad30180c2b3\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-05T16:39:50.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GameService.http",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\GameService.http",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\GameService.http",
               "RelativeDocumentMoniker": "GameService\\GameService.http",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\GameService.http",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\GameService.http",
               "RelativeToolTip": "GameService\\GameService.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -128,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Controllers\\GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "GameService\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Controllers\\GameController.cs",
               "RelativeToolTip": "GameService\\Controllers\\GameController.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GameDTO.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Models\\GameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Models\\GameDTO.cs",
               "RelativeDocumentMoniker": "GameService\\Data\\Models\\GameDTO.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Models\\GameDTO.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Models\\GameDTO.cs",
               "RelativeToolTip": "GameService\\Data\\Models\\GameDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "GameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Repositories\\GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Repositories\\GameRepository.cs",
               "RelativeDocumentMoniker": "GameService\\Data\\Repositories\\GameRepository.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Repositories\\GameRepository.cs",
               "RelativeToolTip": "GameService\\Data\\Repositories\\GameRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IGameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Repositories\\IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Repositories\\IGameRepository.cs",
               "RelativeDocumentMoniker": "GameService\\Data\\Repositories\\IGameRepository.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Repositories\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Repositories\\IGameRepository.cs",
               "RelativeToolTip": "GameService\\Data\\Repositories\\IGameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20251104135834_inital migration.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Migrations\\20251104135834_inital migration.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Migrations\\20251104135834_inital migration.cs",
               "RelativeDocumentMoniker": "GameService\\Migrations\\20251104135834_inital migration.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Migrations\\20251104135834_inital migration.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Migrations\\20251104135834_inital migration.cs",
               "RelativeToolTip": "GameService\\Migrations\\20251104135834_inital migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,24 +215,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Program.cs",
               "RelativeDocumentMoniker": "GameService\\Program.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Program.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Program.cs",
               "RelativeToolTip": "GameService\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T13:54:53.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "GameService\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\appsettings.Development.json",
               "RelativeToolTip": "GameService\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -213,24 +240,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\appsettings.json",
               "RelativeDocumentMoniker": "GameService\\appsettings.json",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\appsettings.json",
               "RelativeToolTip": "GameService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-04T13:53:48.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T13:53:48.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "GameService\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "GameService\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Models\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GameService\\Data\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Data\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Data\\Models\\Game.cs",
               "RelativeToolTip": "GameService\\Data\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "GameService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameService\\GameService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Esteban\\source\\repos\\GameService\\GameService\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "GameService\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

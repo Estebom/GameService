@@ -340,3 +340,4 @@ C:\Users\1171083\Source\Repos\GameService\GameService\obj\Debug\net8.0\GameServi
 C:\Users\1171083\Source\Repos\GameService\GameService\obj\Debug\net8.0\GameService.genruntimeconfig.cache
 C:\Users\1171083\Source\Repos\GameService\GameService\obj\Debug\net8.0\ref\GameService.dll
 C:\Users\1171083\Source\Repos\GameService\GameService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Esteban\source\repos\GameService\GameService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
